@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lumi</h1>
 <h3 align="center">A programming student at Hive Helsinki.</h3>
 
-- 🔭 I’m currently working on [libft](https://github.com/lkilpela/libft)
+- 🔭 I’m currently working on [ft_prinft](https://github.com/lkilpela/ft_printft)
 
 - 🌱 I’m currently learning **coding**
 
