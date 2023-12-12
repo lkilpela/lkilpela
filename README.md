@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lumi</h1>
 <h3 align="center">A programming student at Hive Helsinki.</h3>
 
-- 🔭 I’m currently working on [ft_prinft](https://github.com/lkilpela/ft_printft)
-
-- 🌱 I’m currently learning **coding**
+- 🌱 I’m currently learning **coding language C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lkilpela?tab=repositories](https://github.com/lkilpela?tab=repositories)
 
