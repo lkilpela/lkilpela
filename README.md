@@ -38,9 +38,16 @@ Future Projects:
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning
 
-## ⭐ My GitHub Stats
+## 📊 GitHub Stats
 
-![Lumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkilpela&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+<!-- Uncomment below to include Wakatime stats -->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
