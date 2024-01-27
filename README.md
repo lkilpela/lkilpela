@@ -7,6 +7,23 @@
 - Tools: Git, VS Code
 - Systems: MacOS
 
+## 🎓 Hive Helsinki Progress
+
+### Rank 00
+- ✅ [libft]([link](https://github.com/lkilpela/libft)): A custom C library.
+
+### Rank 01
+- ✅ [ft_printf]([link](https://github.com/lkilpela/ft_printf)): Brief description
+- ✅ [get_next_line]([link](https://github.com/lkilpela/get_next_line): Brief description
+- ✅ [Born2beroot]([link](https://github.com/lkilpela/Born2beRoot): Brief description
+
+### Rank 02
+- 🔵 [so_long](https://github.com/lkilpela/so_long)): Build a very small 2D game.
+
+Future Projects:
+- ⚪ Project ..
+- ⚪ Project ..
+- 
 ## 📚 Currently Learning at Hive Helsinki:
 
 - Advanced C programming
