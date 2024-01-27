@@ -23,9 +23,12 @@
 🔵 [so_long](https://github.com/lkilpela/so_long): A 2D game built in C using the MiniLibX/MLX42 graphics library.
 
 Future Projects:
-⚪ Project ..
 
-⚪ Project ..
+⚪ [minitalk]
+
+⚪ [pipex]
+
+⚪ [push_swap]
 
 ## 📚 Currently Learning at Hive Helsinki:
 
