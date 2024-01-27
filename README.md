@@ -15,6 +15,17 @@
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning
 
+## 📚 Current Projects
+
+Here are some of my active repositories:
+
+- [Born2beRoot](https://github.com/lkilpela/Born2beRoot): A system administration project at Hive Helsinki.
+  ![Born2beRoot Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lkilpela&repo=Born2beRoot&theme=radical)
+
+- [Another Project](https://github.com/lkilpela/another-project): Brief description of the project.
+  ![Another Project Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lkilpela&repo=another-project&theme=radical)
+
+
 ## ⭐ My GitHub Stats
 
 ![Lumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkilpela&show_icons=true&theme=radical)
