@@ -10,12 +10,14 @@
 ## 🎓 Hive Helsinki Progress
 
 ### Rank 00
-✅ [libft](https://github.com/lkilpela/libft): A library of re-coded standard C library functions, plus some additional ones.
+✅ [libft](https://github.com/lkilpela/libft): A library of re-implemented standard C library functions.
 
 ### Rank 01
-✅ [ft_printf](https://github.com/lkilpela/ft_printf): A recreation of the printf function from the C standard library.
-✅ [get_next_line](https://github.com/lkilpela/get_next_line): A function that reads any valid file line by line until the end.
-✅ [Born2beroot](https://github.com/lkilpela/Born2beRoot): A system administration project that emphasizes the importance of security in coding.
+✅ [ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.
+
+✅ [get_next_line](https://github.com/lkilpela/get_next_line): A function to read a file line by line.
+
+✅ [Born2beroot](https://github.com/lkilpela/Born2beRoot): A project focusing on system administration and security.
 
 ### Rank 02
 🔵 [so_long](https://github.com/lkilpela/so_long): A 2D game built in C using the MiniLibX/MLX42 graphics library.
