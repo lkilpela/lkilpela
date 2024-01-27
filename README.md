@@ -20,10 +20,9 @@
 Here are some of my active repositories:
 
 - [Born2beRoot](https://github.com/lkilpela/Born2beRoot): A system administration project at Hive Helsinki.
-  ![Born2beRoot Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lkilpela&repo=Born2beRoot&theme=radical)
-
-- [Another Project](https://github.com/lkilpela/another-project): Brief description of the project.
-  ![Another Project Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lkilpela&repo=another-project&theme=radical)
+  <div style="width: 100%; background-color: #f3f3f3; border-radius: 12px;">
+    <div style="height: 20px; width: 70%; background-color: #0366d6; border-radius: 12px;"></div>
+  </div>
 
 
 ## ⭐ My GitHub Stats
