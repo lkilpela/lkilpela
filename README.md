@@ -7,7 +7,7 @@
 - Tools: Git, VS Code
 - Systems: MacOS
 
-## 🎓 Hive Helsinki Progress
+## 🎓 Project Progress
 
 ### Rank 00
 ✅ [libft](https://github.com/lkilpela/libft): A library of re-implemented standard C library functions.
