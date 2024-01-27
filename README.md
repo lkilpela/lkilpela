@@ -20,7 +20,7 @@
 ✅ [Born2beroot](https://github.com/lkilpela/Born2beRoot): Brief description
 
 ### Rank 02
-🔵 [so_long](https://github.com/lkilpela/so_long)): Build a very small 2D game.
+🔵 [so_long](https://github.com/lkilpela/so_long): Build a very small 2D game.
 
 Future Projects:
 ⚪ Project ..
