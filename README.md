@@ -14,14 +14,14 @@ Future Projects:
 
 ⚪ [push_swap]
 ### Rank 01
-![Score](https://img.shields.io/badge/Score-100%2F100-green) [ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.
+![Score](https://img.shields.io/badge/100%2F100-green) [ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.
 
-✅ [get_next_line](https://github.com/lkilpela/get_next_line): A function to read a file line by line.
+![Score](https://img.shields.io/badge/100%2F100-green) [get_next_line](https://github.com/lkilpela/get_next_line): A function to read a file line by line.
 
-✅ [Born2beroot](https://github.com/lkilpela/Born2beRoot): A project focusing on system administration and security.
+![Score](https://img.shields.io/badge/100%2F100-green) [Born2beroot](https://github.com/lkilpela/Born2beRoot): A project focusing on system administration and security.
 
 ### Rank 00
-✅ [libft](https://github.com/lkilpela/libft): A library of re-implemented standard C library functions.
+![Score](https://img.shields.io/badge/125%2F100-green) [libft](https://github.com/lkilpela/libft): A library of re-implemented standard C library functions.
 ## 📚 Currently Learning at Hive Helsinki:
 
 - Advanced C programming
