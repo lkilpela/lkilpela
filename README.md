@@ -14,7 +14,7 @@ Future Projects:
 
 ⚪ [push_swap]
 ### Rank 01
-✅ [ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.
+![Score](https://img.shields.io/badge/Score-100%2F100-green) [ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.
 
 ✅ [get_next_line](https://github.com/lkilpela/get_next_line): A function to read a file line by line.
 
@@ -37,6 +37,7 @@ Future Projects:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📊 GitHub Stats
 
