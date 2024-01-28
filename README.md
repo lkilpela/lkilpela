@@ -3,16 +3,6 @@
 
 ## 🎓 Project Progress
 
-### Rank 00
-✅ [libft](https://github.com/lkilpela/libft): A library of re-implemented standard C library functions.
-
-### Rank 01
-✅ [ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.
-
-✅ [get_next_line](https://github.com/lkilpela/get_next_line): A function to read a file line by line.
-
-✅ [Born2beroot](https://github.com/lkilpela/Born2beRoot): A project focusing on system administration and security.
-
 ### Rank 02
 🔵 [so_long](https://github.com/lkilpela/so_long): A 2D game built in C using the MiniLibX/MLX42 graphics library.
 
@@ -23,7 +13,15 @@ Future Projects:
 ⚪ [pipex]
 
 ⚪ [push_swap]
+### Rank 01
+✅ [ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.
 
+✅ [get_next_line](https://github.com/lkilpela/get_next_line): A function to read a file line by line.
+
+✅ [Born2beroot](https://github.com/lkilpela/Born2beRoot): A project focusing on system administration and security.
+
+### Rank 00
+✅ [libft](https://github.com/lkilpela/libft): A library of re-implemented standard C library functions.
 ## 📚 Currently Learning at Hive Helsinki:
 
 - Advanced C programming
