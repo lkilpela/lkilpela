@@ -4,7 +4,7 @@
 ## 🎓 Project Progress
 
 ### Rank 02
-🔵 `so_long` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.` [Link](https://github.com/lkilpela/so_long)
+🔵 `**so_long**` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.`[Link](https://github.com/lkilpela/so_long)
 
 Future Projects:
 
