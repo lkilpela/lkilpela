@@ -33,9 +33,7 @@ Future Projects:
 - Other: Network Security, Machine Learning
 
 ## 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/lkilpelainen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lumi k" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
 ## 🛠️ My Toolkits
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
