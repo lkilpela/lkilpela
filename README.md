@@ -15,7 +15,7 @@ Future Projects:
 
 ⚪ `push_swap`
 
-### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green?style=for-the-badge))
+### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
 
 `ft_printf` : `A re-implementation of the printf function from C.` 
 - [Repo](https://github.com/lkilpela/ft_printf)
