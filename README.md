@@ -16,7 +16,9 @@ Future Projects:
 ⚪ `push_swap`
 
 ### Rank 01
-![Score](https://img.shields.io/badge/100%2F100-green) `ft_printf` : `A re-implementation of the printf function from C.` 
+![Score](https://img.shields.io/badge/100%2F100-green) 
+
+`ft_printf` : `A re-implementation of the printf function from C.` 
 - [Repo](https://github.com/lkilpela/ft_printf)
 
 ![Score](https://img.shields.io/badge/100%2F100-green) `get_next_line` : `A function to read a file line by line.`
