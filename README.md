@@ -4,17 +4,18 @@
 ## 🎓 Project Progress
 
 ### Rank 02
-🔵 `**so_long**` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.`[Link](https://github.com/lkilpela/so_long)
+🔵 `so_long` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.`[Link](https://github.com/lkilpela/so_long)
 
 Future Projects:
 
-⚪ [minitalk]
+⚪ `minitalk`
 
-⚪ [pipex]
+⚪ `pipex`
 
-⚪ [push_swap]
+⚪ `push_swap`
+
 ### Rank 01
-![Score](https://img.shields.io/badge/100%2F100-green) `[ft_printf](https://github.com/lkilpela/ft_printf): A re-implementation of the printf function from C.`
+![Score](https://img.shields.io/badge/100%2F100-green) `ft_printf]` : `A re-implementation of the printf function from C.`[Link](https://github.com/lkilpela/ft_printf)
 
 ![Score](https://img.shields.io/badge/100%2F100-green) `[get_next_line](https://github.com/lkilpela/get_next_line): A function to read a file line by line.`
 
