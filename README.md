@@ -26,7 +26,9 @@ Future Projects:
 - [Repo](https://github.com/lkilpela/Born2beRoot)
 
 ### Rank 00
-![Score](https://img.shields.io/badge/125%2F100-green) [libft](https://github.com/lkilpela/libft): A library of re-implemented standard C library functions.
+![Score](https://img.shields.io/badge/125%2F100-green) `libft`: `A library of re-implemented standard C library functions.`
+- [Repo](https://github.com/lkilpela/libft)
+
 ## 📚 Currently Learning at Hive Helsinki:
 
 - Advanced C programming
