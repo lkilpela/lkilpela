@@ -15,20 +15,19 @@ Future Projects:
 
 ⚪ `push_swap`
 
-### Rank 01
-![Score](https://img.shields.io/badge/100%2F100-green) 
+### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
 
 `ft_printf` : `A re-implementation of the printf function from C.` 
 - [Repo](https://github.com/lkilpela/ft_printf)
 
-![Score](https://img.shields.io/badge/100%2F100-green) `get_next_line` : `A function to read a file line by line.`
+`get_next_line` : `A function to read a file line by line.`
 - [Repo](https://github.com/lkilpela/get_next_line)
 
-![Score](https://img.shields.io/badge/100%2F100-green) `Born2beroot` : `A project focusing on system administration and security.`
+`Born2beroot` : `A project focusing on system administration and security.`
 - [Repo](https://github.com/lkilpela/Born2beRoot)
 
-### Rank 00
-![Score](https://img.shields.io/badge/125%2F100-green) `libft`: `A library of re-implemented standard C library functions.`
+### Rank 00 ![Score](https://img.shields.io/badge/125%2F100-green) 
+`libft`: `A library of re-implemented standard C library functions.`
 - [Repo](https://github.com/lkilpela/libft)
 
 ## 📚 Currently Learning at Hive Helsinki:
