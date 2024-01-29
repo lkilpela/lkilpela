@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lumi</h1>
 <h3 align="center">A programming student at Hive Helsinki.</h3>
 
+## 📚 Currently Learning at Hive Helsinki:
+
+- Advanced C programming
+- System Administration
+- Web Development: JavaScript, Node.js, React.js
+- Databases: SQL, MongoDB
+- Other: Network Security, Machine Learning
+
 ## 🎓 Project Progress
 
 ### Rank 02
@@ -27,14 +35,6 @@ Future Projects:
 ### Rank 00 ![Score](https://img.shields.io/badge/125%2F100-green) 
 `libft`: `A library of reproduction standard C library functions.`
 - [Repo](https://github.com/lkilpela/libft)
-
-## 📚 Currently Learning at Hive Helsinki:
-
-- Advanced C programming
-- System Administration
-- Web Development: JavaScript, Node.js, React.js
-- Databases: SQL, MongoDB
-- Other: Network Security, Machine Learning
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
