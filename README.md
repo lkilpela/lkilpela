@@ -9,8 +9,6 @@
 
 Future Projects:
 
-⚪ `minitalk`
-
 ⚪ `pipex`
 
 ⚪ `push_swap`
