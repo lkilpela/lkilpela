@@ -17,7 +17,7 @@ Future Projects:
 
 ### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
 
-`ft_printf` : `A re-implementation of the printf function from C.` 
+`ft_printf` : `A reproduction of the printf function from C.` 
 - [Repo](https://github.com/lkilpela/ft_printf)
 
 `get_next_line` : `A function to read a file line by line.`
@@ -27,7 +27,7 @@ Future Projects:
 - [Repo](https://github.com/lkilpela/Born2beRoot)
 
 ### Rank 00 ![Score](https://img.shields.io/badge/125%2F100-green) 
-`libft`: `A library of re-implemented standard C library functions.`
+`libft`: `A library of reproduction standard C library functions.`
 - [Repo](https://github.com/lkilpela/libft)
 
 ## 📚 Currently Learning at Hive Helsinki:
