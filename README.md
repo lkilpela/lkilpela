@@ -21,7 +21,7 @@ Future Projects:
 `get_next_line` : `A function to read a file line by line.`
 - [Repo](https://github.com/lkilpela/get_next_line)
 
-`Born2beroot` : `A project focusing on system administration and security.`
+`Born2beroot` : `A project focusing on setting up a Linux virtual machine and performing various system administration tasks.`
 - [Repo](https://github.com/lkilpela/Born2beRoot)
 
 ### Rank 00 ![Score](https://img.shields.io/badge/125%2F100-green) 
