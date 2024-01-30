@@ -19,6 +19,7 @@
 - [Repo](https://github.com/lkilpela/pipex)
 
 🔵 `push_swap` : `Data sorting using two stacks in C`
+- [Repo](https://github.com/lkilpela/push_swap)
 
 ### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
 
