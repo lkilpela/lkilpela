@@ -15,9 +15,10 @@
 🔵 `so_long` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.`
 - [Repo](https://github.com/lkilpela/so_long)
 
-Future Projects:
+🔵 `pipex` : `An implementation of a Simple Pipe Operation (|) in C.`
+- [Repo](https://github.com/lkilpela/pipex)
 
-⚪ `pipex`
+Future Projects:
 
 ⚪ `push_swap`
 
