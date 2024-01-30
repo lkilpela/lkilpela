@@ -29,7 +29,7 @@
 `get_next_line` : `A function to read a file line by line.`
 - [Repo](https://github.com/lkilpela/get_next_line)
 
-`Born2beroot` : `System administration with a Linux virtual machine`
+`Born2beroot` : `System administration with a Linux virtual machine.`
 - [Repo](https://github.com/lkilpela/Born2beRoot)
 
 ### Rank 00 ![Score](https://img.shields.io/badge/125%2F100-green) 
