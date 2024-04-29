@@ -10,7 +10,7 @@
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning-->
 
-## 🎓 Project Progress
+<!--- ## 🎓 Project Progress
 
 ### Rank 02
 🔵 `so_long` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.`
@@ -22,7 +22,7 @@
 🔵 `push_swap` : `Data sorting using two stacks in C`
  <!--- - [Repo](https://github.com/lkilpela/push_swap) -->
 
-### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
+<!--- ### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
 
 `ft_printf` : `A reproduction of the printf function from C.` 
 - [Repo](https://github.com/lkilpela/ft_printf)
@@ -35,7 +35,7 @@
 
 ### Rank 00 ![Score](https://img.shields.io/badge/125%2F100-green) 
 `libft`: `A library of reproduction standard C library functions.`
-- [Repo](https://github.com/lkilpela/libft)
+- [Repo](https://github.com/lkilpela/libft) -->
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
