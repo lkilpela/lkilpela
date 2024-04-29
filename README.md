@@ -10,17 +10,17 @@
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning-->
 
-<!--- ## 🎓 Project Progress
+<!--- ## 🎓 Project Progress -->
 
-### Rank 02
+<!--- ### Rank 02
 🔵 `so_long` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.`
-<!--- - [Repo](https://github.com/lkilpela/so_long) -->
+- [Repo](https://github.com/lkilpela/so_long)
 
 🔵 `pipex` : `An implementation of a Unix pipe command (|) in C.`
-<!---  - [Repo](https://github.com/lkilpela/pipex) -->
+- [Repo](https://github.com/lkilpela/pipex)
 
 🔵 `push_swap` : `Data sorting using two stacks in C`
- <!--- - [Repo](https://github.com/lkilpela/push_swap) -->
+ - [Repo](https://github.com/lkilpela/push_swap) -->
 
 <!--- ### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
 
@@ -62,7 +62,7 @@
 - Systems: MacOS
 -->
 =======
-<p align="center">
+<!-- <p align="center">
   <img src="badges/volunteerm.png" alt="ready to help"/>
 </p>
 
@@ -175,4 +175,4 @@ Feel free to open an issue if you find a bug or have a suggestion, so we can dis
 This project is made under the MIT license, for more information about its possible use, modification, and sharing, [click here](LICENSE).
 
 <p align="center"> Developed by cadets for cadets. </p>
->>>>>>> subtree_repo/main
+>>>>>>> subtree_repo/main -->
