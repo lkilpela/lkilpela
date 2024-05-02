@@ -10,7 +10,7 @@
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning-->
 
-
+<!---
 | Project       |                    Badge                     |                        With Bonus                        |
 | :------------  | :------------------------------------------: | :------------------------------------------------------: |
 | libft          |         ![libft](./badges/libfte.png)        |         ![libft-bonus](./badges/libftm.png)             |
@@ -33,7 +33,7 @@
 | inception      |  ![inception](./badges/inceptione.png)       |     ![inception-bonus](./badges/inceptionm.png)        |
 | webserv        |  ![webserver](./badges/webserve.png)         |     ![webserver-bonus](./badges/webservm.png)          |
 | ft_irc         |  ![ft_irc](./badges/ft_irce.png)             |     ![ft_irc-bonus](./badges/ft_ircm.png)              |
-| ft_transcendence |  ![ft_transcendence](./badges/ft_transcendencee.png) |     ![ft_transcendence-bonus](./badges/ft_transcendencem.png)    |
+| ft_transcendence |  ![ft_transcendence](./badges/ft_transcendencee.png) |     ![ft_transcendence-bonus](./badges/ft_transcendencem.png)    |-->
 <!--- ## 🎓 Project Progress -->
 
 <!--- ### Rank 02
