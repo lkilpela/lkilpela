@@ -10,7 +10,7 @@
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning-->
 
-### Projects
+### Hive Projects
 <details>
   <summary>Click to expand </summary>
 
@@ -20,6 +20,13 @@
 | --- | --- |
 | [**libft**](https://github.com/lkilpela/libft) | A library of reproduction standard C library functions.|
 
+**rank01** 
+
+| Project | Description |
+| --- | --- |
+| [**ft\_printf**](https://github.com/lkilpela/ft_printf) | A reproduction of the printf function from C.|
+| [**get\_next\_line**](https://github.com/lkilpela/ft_printf) | A function to read a file line by line.|
+| [**Born2beroot**](https://github.com/lkilpela/ft_printf) | System administration with a Linux virtual machine.|
 
 
 <!---
