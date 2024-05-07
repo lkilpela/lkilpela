@@ -64,58 +64,6 @@
 | [**...**](https://github.com/lkilpela/...) | ...|
 | [**...**](https://github.com/lkilpela/...) | ...|
 
-
-<!---
-| Project       |                    Badge                     |                        With Bonus                        |
-| :------------  | :------------------------------------------: | :------------------------------------------------------: |
-| libft          |         ![libft](./badges/libfte.png)        |         ![libft-bonus](./badges/libftm.png)             |
-| get_next_line  | ![get_next_line](./badges/get_next_linee.png)| ![get_next_line-bonus](./badges/get_next_linem.png)     |
-| born2beroot    |   ![born2beroot](./badges/born2beroote.png)  |   ![born2beroot-bonus](./badges/born2berootm.png)       |
-| ft_printf      |     ![ft_printf](./badges/ft_printfe.png)    |     ![ft_printf-bonus](./badges/ft_printfm.png)         |
-| minitalk       |     ![minitalk](./badges/minitalke.png)      |      ![minitalk-bonus](./badges/minitalkm.png)          |
-| pipex          |      ![pipex](./badges/pipexe.png)           |         ![pipex-bonus](./badges/pipexm.png)             |
-| so_long        |      ![so_long](./badges/so_longe.png)       |       ![so_long-bonus](./badges/so_longm.png)           |
-| fdf            |      ![fdf](./badges/fdfe.png)               |       ![fdf-bonus](./badges/fdfm.png)                   |
-| fractol        |      ![fractol](./badges/fract-ole.png)      |       ![fractol-bonus](./badges/fract-olm.png)          |
-| push_swap      |     ![push_swap](./badges/push_swape.png)    |     ![push_swap-bonus](./badges/push_swapm.png)         |
-| philosophers   |  ![philosophers](./badges/philosopherse.png) |  ![philosophers-bonus](./badges/philosophersm.png)      |
-| minishell      |     ![minishell](./badges/minishelle.png)    |     ![minishell-bonus](./badges/minishellm.png)         |
-| netpratice     |     ![netpratice](./badges/netpracticee.png) |     ![netpratice-bonus](./badges/netpracticem.png)      |
-| cub3d          |     ![cub3d](./badges/cub3de.png)            |     ![cub3d-bonus](./badges/cub3dm.png)                |
-| minirt         |     ![minirt](./badges/minirte.png)          |     ![minirt-bonus](./badges/minirtm.png)              |
-| cpp            |     ![cpp](./badges/cppe.png)                |     ![cpp-bonus](./badges/cppm.png)                    |
-| ft_containers  |![ft_containers](./badges/ft_containerse.png) |     ![ft_containers](./badges/ft_containersm.png)      |
-| inception      |  ![inception](./badges/inceptione.png)       |     ![inception-bonus](./badges/inceptionm.png)        |
-| webserv        |  ![webserver](./badges/webserve.png)         |     ![webserver-bonus](./badges/webservm.png)          |
-| ft_irc         |  ![ft_irc](./badges/ft_irce.png)             |     ![ft_irc-bonus](./badges/ft_ircm.png)              |
-| ft_transcendence |  ![ft_transcendence](./badges/ft_transcendencee.png) |     ![ft_transcendence-bonus](./badges/ft_transcendencem.png)    |-->
-<!--- ## 🎓 Project Progress -->
-
-<!--- ### Rank 02
-🔵 `so_long` : `A 2D game built in C using the MiniLibX/MLX42 graphics library.`
-- [Repo](https://github.com/lkilpela/so_long)
-
-🔵 `pipex` : `An implementation of a Unix pipe command (|) in C.`
-- [Repo](https://github.com/lkilpela/pipex)
-
-🔵 `push_swap` : `Data sorting using two stacks in C`
- - [Repo](https://github.com/lkilpela/push_swap) -->
-
-<!--- ### Rank 01 ![Score](https://img.shields.io/badge/100%2F100-green)
-
-`ft_printf` : `A reproduction of the printf function from C.` 
-- [Repo](https://github.com/lkilpela/ft_printf)
-
-`get_next_line` : `A function to read a file line by line.`
-- [Repo](https://github.com/lkilpela/get_next_line)
-
-`Born2beroot` : `System administration with a Linux virtual machine.`
-- [Repo](https://github.com/lkilpela/Born2beRoot)
-
-### Rank 00 ![Score](https://img.shields.io/badge/125%2F100-green) 
-`libft`: `A library of reproduction standard C library functions.`
-- [Repo](https://github.com/lkilpela/libft) -->
-
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
 
