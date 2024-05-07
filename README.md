@@ -10,7 +10,7 @@
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning-->
 
-### Hive Projects
+## 🎓 Hive Projects
 <details>
   <summary>Click to expand </summary>
 
@@ -33,8 +33,16 @@
 | Project | Description |
 | --- | --- |
 | [**so\_long**](https://github.com/lkilpela/so_long) | A 2D game built in C using the MiniLibX/MLX42 graphics library.|
-| [**pipex**](https://github.com/lkilpela/pipex) | An implementation of a Unix pipe command (|) in C.|
+| [**pipex**](https://github.com/lkilpela/pipex) | An implementation of a Unix pipe command in C.|
 | [**push\_swap**](https://github.com/lkilpela/push_swap) | Data sorting using two stacks in C.|
+
+**rank03** 
+
+| Project | Description |
+| --- | --- |
+| [**philosophers**](https://github.com/lkilpela/philosophers) | A multithreaded solution to the dining philosophers problem.|
+| [**minishell**](https://github.com/lkilpela/minishell) | A mini shell implementation in C.|
+
 
 
 <!---
