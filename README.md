@@ -28,6 +28,14 @@
 | [**get\_next\_line**](https://github.com/lkilpela/ft_printf) | A function to read a file line by line.|
 | [**Born2beroot**](https://github.com/lkilpela/ft_printf) | System administration with a Linux virtual machine.|
 
+**rank02** 
+
+| Project | Description |
+| --- | --- |
+| [**so\_long**](https://github.com/lkilpela/so_long) | A 2D game built in C using the MiniLibX/MLX42 graphics library.|
+| [**pipex**](https://github.com/lkilpela/pipex) | An implementation of a Unix pipe command (|) in C.|
+| [**push\_swap**](https://github.com/lkilpela/push_swap) | Data sorting using two stacks in C.|
+
 
 <!---
 | Project       |                    Badge                     |                        With Bonus                        |
