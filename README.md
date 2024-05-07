@@ -10,6 +10,18 @@
 - Databases: SQL, MongoDB
 - Other: Network Security, Machine Learning-->
 
+### Projects
+<details>
+  <summary>Click to expand </summary>
+
+**rank00** 
+
+| Project | Description |
+| --- | --- |
+| [**libft**](https://github.com/lkilpela/libft) | A library of reproduction standard C library functions.|
+
+
+
 <!---
 | Project       |                    Badge                     |                        With Bonus                        |
 | :------------  | :------------------------------------------: | :------------------------------------------------------: |
