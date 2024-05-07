@@ -76,11 +76,11 @@
 
 ## 📊 GitHub Stats
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkilpela&show_icons=true&theme=radical) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkilpela&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkilpela&layout=compact&theme=dark) ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018d4d23-569f-4105-bff2-bee20b7ee25c&theme=dark)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lkilpela&theme=dark)
+<!--![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lkilpela&theme=dark) -->
 
 <!--
 ## 🛠️ My Skills
