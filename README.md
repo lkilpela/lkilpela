@@ -43,6 +43,26 @@
 | [**philosophers**](https://github.com/lkilpela/philosophers) | A multithreaded solution to the dining philosophers problem.|
 | [**minishell**](https://github.com/lkilpela/minishell) | A mini shell implementation in C.|
 
+**rank04** 
+
+| Project | Description |
+| --- | --- |
+| [**...**](https://github.com/lkilpela/...) | ...|
+| [**...**](https://github.com/lkilpela/...) | ...|
+
+**rank05** 
+
+| Project | Description |
+| --- | --- |
+| [**...**](https://github.com/lkilpela/...) | ...|
+| [**...**](https://github.com/lkilpela/...) | ...|
+
+**rank06** 
+
+| Project | Description |
+| --- | --- |
+| [**...**](https://github.com/lkilpela/...) | ...|
+| [**...**](https://github.com/lkilpela/...) | ...|
 
 
 <!---
