@@ -5,6 +5,9 @@
 ## 📚 Currently Learning at Hive Helsinki:
 
 - Advanced C programming
+- System Administration
+- Python
+- C++ 
 <!--- System Administration
 - Web Development: JavaScript, Node.js, React.js
 - Databases: SQL, MongoDB
