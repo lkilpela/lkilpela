@@ -69,7 +69,7 @@
 </details>
 
 ## 🛠️ My Skill Profile
-[Roadmap.sh](https://roadmap.sh/u/lkilpela)
+[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/lkilpela)
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
