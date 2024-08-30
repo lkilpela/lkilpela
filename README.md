@@ -75,9 +75,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
 
 ## 🛠️ My Toolkits
-![C](https://img.shields.io/badge/c-%000000?style=for-the-badge&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%000000.svg?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
