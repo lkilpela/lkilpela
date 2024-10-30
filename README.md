@@ -50,15 +50,17 @@
 
 | Project | Description |
 | --- | --- |
-| [**...**](https://github.com/lkilpela/...) | ...|
-| [**...**](https://github.com/lkilpela/...) | ...|
+| [**NetPractice**](https://github.com/lkilpela/...) | Network configuration and troubleshooting.|
+| [**miniRT**](https://github.com/lkilpela/...) | A mini ray tracing project built for learning basic ray tracing techniques.|
+| [**CPP00 - CPP04**](https://github.com/lkilpela/...) | CPP Modules 
 
 **rank05** 
 
 | Project | Description |
 | --- | --- |
-| [**...**](https://github.com/lkilpela/...) | ...|
-| [**...**](https://github.com/lkilpela/...) | ...|
+| [**CPP05 - CPP09**](https://github.com/lkilpela/...) | CPP Modules 
+| [**webserv**](https://github.com/lkilpela/...) | ...|
+| [**Inception(Docker)**](https://github.com/lkilpela/...) | ...|
 
 **rank06** 
 
