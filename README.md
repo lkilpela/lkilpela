@@ -79,6 +79,7 @@
 
 ## 🛠️ My Toolkits
 ![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c++&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
