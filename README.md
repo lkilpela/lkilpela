@@ -21,9 +21,9 @@
 | Phase 4 |
 | [**NetPractice**](https://github.com/lkilpela/NetPractice) | Network configuration and troubleshooting.|
 | [**miniRT**](https://github.com/lkilpela/miniRT) | A mini ray tracing project built for learning basic ray tracing techniques.|
-| [**CPP00 - CPP04**](https://github.com/lkilpela/CPP_Modules) | Introduction to C++ basics, advanced OOP principles, inheritance, templates, and exception handling. 
+| [**CPP00 - CPP04**](https://github.com/lkilpela/CPP_Modules) | Introduction to C++ basics, inheritance, polymorphism, and operator overloading. 
 | Phase 5 |
-| [**CPP05 - CPP09**](https://github.com/lkilpela/CPP_Modules) | Advanced C++ features including file I/O, smart pointers, metaprogramming, concurrency, and design patterns. 
+| [**CPP05 - CPP09**](https://github.com/lkilpela/CPP_Modules) | Deep dive in C++ features including file casts, templates, Standard Template Library (STL) and exception handling.
 | [**webserv**](https://github.com/lkilpela/Webserv) | A custom HTTP server built from scratch to handle HTTP requests and responses.|
 | [**Inception(Docker)**](https://github.com/lkilpela/Inception) | A multi-service infrastructure setup using Docker Compose with NGINX, WordPress, and MariaDB containers.|
 | Phase 6 |
