@@ -1,16 +1,12 @@
 
-`👋 Hi there! I’m a solution-focused programming student at Hive, graduating in Spring 2025.`
+👋 Hi there! I’m a C & C++ programming student at Hive, graduating in Spring 2025.
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhxcXNjZWhkOXhqa3F5amxtdHdsbjdkYTA1dGI2a3E5dnNwZmR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qxHO2E2ymeGZK7AFOe/giphy.gif" width="200" align="right"/>
 
-`💻  Proficient in C and C++ with a strong foundation in software development.`
+💻 Grasping new skills in FullStackOpen.
 
-`🚀  Rapid learner able to quickly master new tools, systems and methods.`
+🌱 Eager to contribute to real-world projects and grow as a software developer.
 
-`🎯  Thriving in collaborative environments to achieve project goals.`
-     
-`🌱 Eager to contribute to real-world projects and grow as a professional software developer.`
-
-`🤝 I’d love to network with like-minded professionals and discuss exciting opportunities!`
+🤝 Let’s connect and discuss exciting opportunities!
 
 ### 🎓 Hive Helsinki Projects
 
