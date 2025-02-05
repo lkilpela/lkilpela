@@ -1,8 +1,8 @@
 
-👋 Hi there! I’m a C & C++ programming student at Hive, graduating in Spring 2025.
+👋 Hi there! I’m a programming student at Hive, graduating in Spring 2025.
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhxcXNjZWhkOXhqa3F5amxtdHdsbjdkYTA1dGI2a3E5dnNwZmR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qxHO2E2ymeGZK7AFOe/giphy.gif" width="200" align="right"/>
 
-💻 Grasping new skills of MERN tools in FullStackOpen course.
+💻 Specialize in full-stack web development.
 
 🌱 Eager to contribute to real-world projects and grow as a software developer.
 
