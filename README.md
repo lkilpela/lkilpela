@@ -33,7 +33,7 @@
 | [**CPP05 - CPP09**](https://github.com/lkilpela/CPP_Modules) | Deep dive in C++ features including file casts, templates, Standard Template Library (STL) and exception handling.
 | [**webserv**](https://github.com/lkilpela/Webserv) | A custom HTTP server built from scratch to handle HTTP requests and responses.|
 | [**Inception(Docker)**](https://github.com/lkilpela/Inception) | A multi-service infrastructure setup using Docker Compose with NGINX, WordPress, and MariaDB containers.|
-| Phase 6 (*Jan - April 2025*)|
+| Phase 6 (*In progress*)|
 | [**ft_transcendence**](https://github.com/lkilpela/ft_transcendence) | A full-stack web application project implementing a real-time multiplayer game with user authentication and social features.|
 
 ## 🛠️ Technical skills
@@ -60,9 +60,11 @@
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
 
+<!---
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkilpela&layout=compact&theme=dark) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkilpela&show_icons=true&theme=radical)
+-->
 
