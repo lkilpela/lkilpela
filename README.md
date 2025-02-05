@@ -37,6 +37,14 @@
 | [**ft_transcendence**](https://github.com/lkilpela/ft_transcendence) | A full-stack web application project implementing a real-time multiplayer game with user authentication and social features.|
 
 ## 🛠️ Technical skills
+### Web development
+![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
