@@ -8,6 +8,10 @@
 
 🤝 Let’s connect and discuss exciting opportunities!
 
+### 🎓 Full Stack Projects
+
+[**FullStack**](https://github.com/lkilpela/FullStackOpen) | Modern JavaScript-based web development
+
 ### 🎓 Hive Helsinki Projects
 
 | Project | Description |
