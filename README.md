@@ -10,7 +10,7 @@
 
 ### 🎓 Full Stack Projects
 
-[**FullStack**](https://github.com/lkilpela/FullStackOpen) | Modern JavaScript-based web development
+[**lkilpela/FullStackOpen**](https://github.com/full-stack-open-lk)) | Modern JavaScript-based web development projects
 
 ### 🎓 Hive Helsinki Projects
 
