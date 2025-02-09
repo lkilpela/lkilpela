@@ -1,5 +1,6 @@
 
-👋 Hi there! I’m a programming student at Hive, graduating in Spring 2025.
+## 👋 Hi there! I’m a last year programming student at Hive Helsinki. 
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhxcXNjZWhkOXhqa3F5amxtdHdsbjdkYTA1dGI2a3E5dnNwZmR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qxHO2E2ymeGZK7AFOe/giphy.gif" width="200" align="right"/>
 
 💻 Specialize in full-stack web development.
@@ -8,13 +9,13 @@
 
 🤝 Let’s connect and discuss exciting opportunities!
 
-### 🎓 Full Stack Projects
+## 🎓 Full Stack Projects
 
-[**lkilpela/FullStackOpen**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
+[**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
 
-### 🎓 Hive Helsinki Projects
+## 🎓 Hive Helsinki Projects
 
-[**HiveProjects**](https://github.com/hive-helsinki-projects) | A collection of various projects developed in C and CPP
+[**Hive Projects**](https://github.com/hive-helsinki-projects) | A collection of various projects developed in C and CPP
 
 ## 🛠️ Technical skills
 
@@ -25,6 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
