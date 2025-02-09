@@ -9,11 +9,11 @@
 
 🤝 Let’s connect and discuss exciting opportunities!
 
-## 🎓 Full Stack Projects
+### 🎓 Full Stack Projects
 
 [**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
 
-## 🎓 Hive Helsinki Projects
+### 🎓 Hive Helsinki Projects
 
 [**Hive Projects**](https://github.com/hive-helsinki-projects) | A collection of various projects developed in C and CPP
 
