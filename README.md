@@ -12,10 +12,10 @@
 ### 🚀 Full Stack Projects
 
   - [**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
-
+<!---
 ### 🚀 Kotlin Projects
   - [**Delivery Order Price Calculator**](https://github.com/dopc) | A Kotlin-Ktor backend service
-
+--->
 ### 🚀 Hive Helsinki Projects
 
   - [**Hive Projects**](https://github.com/hive-helsinki-projects) | A collection of various projects developed in C and CPP
